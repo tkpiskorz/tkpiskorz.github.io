@@ -10,5 +10,4 @@ author_profile: true
 {% endif %}
 
 
-T.K. Piskorz, A. Ochab-Marcinek, A Universal Model of Restricted Diffusion for Fluorescence Correlation Spectroscopy
-https://doi.org/10.1021/jp502467u
+T.K. Piskorz, A. Ochab-Marcinek, A Universal Model of Restricted Diffusion for Fluorescence Correlation Spectroscopy, J. Phys. Chem. B., 2014, 118, 18, 4906-4912. [https://doi.org/10.1021/jp502467u](https://doi.org/10.1021/jp502467u).
