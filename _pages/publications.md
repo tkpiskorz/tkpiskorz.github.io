@@ -9,8 +9,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+T.K. Piskorz, A. Ochab-Marcinek, A Universal Model of Restricted Diffusion for Fluorescence Correlation Spectroscopy
+https://doi.org/10.1021/jp502467u
