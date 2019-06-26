@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 
-About me
-------
-I am at the last stage of my Ph.D., which I have done in the Advance Soft Matter group at TU Delft under the supervision of prof. Jan van Esch (Advance Soft Matter (ASM) group) and dr. Alex Vries (molecular dynamics group at the University of Groningen). My Ph.D. thesis is entitled "Molecular modeling of supramolecular structures."
+I am at the last stage of my Ph.D., which I have done in the Advance Soft Matter group at TU Delft under the supervision of prof. Jan van Esch (Advance Soft Matter (ASM) group) and dr. Alex Vries (molecular dynamics (MD) group at the University of Groningen). My Ph.D. thesis is entitled "Molecular modeling of supramolecular structures."
 
 Research Intrest
 ------
