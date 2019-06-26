@@ -9,6 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+If you do not have access to these articles, just drop me an email, I will be happy to provide you copy of the manuscript.
+
 <u>T.K. Piskorz</u>, A.H. de Vries, S. De Feyter, J.H. van Esch, <i>Mechanism of Ostwald Ripening in 2D Physisorbed Assemblies at Molecular Time and Length Scale by Molecular Dynamics Simulations</i>,
 J. Phys. Chem. C,2018, 122, 42, 24380-24385, <a href="https://doi.org/10.1021/acs.jpcc.8b06432">DOI: 10.1021/acs.jpcc.8b06432</a>.
 
