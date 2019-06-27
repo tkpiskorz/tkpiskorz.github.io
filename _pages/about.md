@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am at the last stage of my Ph.D., which I have done in the [Advance Soft Matter group](https://www.linkedin.com/company/advanced-soft-matter-tu-delft/) at TU Delft under the supervision of prof. Jan van Esch (Advance Soft Matter (ASM) group) and dr. Alex Vries ([molecular dynamics (MD) group](https://www.rug.nl/research/molecular-dynamics/) at the University of Groningen). My Ph.D. thesis is entitled "Molecular modeling of supramolecular structures."
+I am at the last stage of my Ph.D., which I have done in the [Advance Soft Matter group](https://www.linkedin.com/company/advanced-soft-matter-tu-delft/) at TU Delft under the supervision of prof. Jan van Esch (Advance Soft Matter (ASM) group) and dr. Alex de Vries ([molecular dynamics (MD) group](https://www.rug.nl/research/molecular-dynamics/) at the University of Groningen). My Ph.D. thesis is entitled "Molecular modeling of supramolecular structures."
 
 Research Intrest
 ------
