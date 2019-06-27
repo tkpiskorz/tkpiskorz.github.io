@@ -11,23 +11,14 @@ redirect_from:
 Teaching assistant 
 
 ### Project for bechelor students Leren Onderzoeken 2 (2017/2018 Q2)
-<i>earching for new gelating materials: Experimental computer-guided study of functionalized dipeptides</i>
+<i>Searching for new gelating materials: Experimental computer-guided study of functionalized dipeptides</i> [(read more...)](/teaching/2017_2018_LO2)<br> 
 I have supervised the computational part of the project. The experimental part was supervised by my friend [Susan van Rossum](https://www.linkedin.com/in/susan-van-rossum-70633775/).
 
-### Introduction to Chemistry & Thermodynamics (2015-2016 Q2)
+### Introduction to Chemistry & Thermodynamics (2015/2016 Q2)
 Teaching assistant
 
-### Structuur en eigenschappen van materialen (2014-2015 Q4)
+### Structuur en eigenschappen van materialen (2014/2015 Q4)
 Teaching assistant
 
 
-Self-assembly is a process in which small molecular blocks assemble into large organized structures by interacting with each other. In recent years, this process has emerged as a new method of obtaining nanosized materials. One of interesting molecular blocks used to creating such a structures are oligopeptides and their derivatives. Their self-assembled structures could find application in medicine, cosmetics, food industry, and nanotechnology. In nature 20 amino acids are most common, everyone with special functional side group.
-However, the possible large variety in the chemical structure consisting of (20)^N amino acids does not allow to study all possible structures, since synthesis and laboratory work would take too much work. Therefore computer simulations can determine the most promising candidates, which can then be investigated by experimental work. 
-Another very interesting aspect of self-assembly is to design a gel which only exists out-of-equilibrium. This means a gel can be formed by adding a chemical fuel, however the gel is unstable and over time it will gradually break down to the original liquid solution. By controlling the kinetics of the formation and deactivation of the gel the lifetime and mechanical properties of the gel can be controlled. The redox chemistry of nicotinamides are promising for such a system as the stable state is positively charged and thus soluble in water, while when reducing the nicotinamide the molecule becomes neutral and can possibly gelate. This gel is only transient, as the reduced state is out-of-equilibrium and will spontaneously oxidize back to the original, positively charged, soluble nicotinamide. 
 
-In this project they will combine both aspects of gelation: computer simulation and transient gelation behavior. They will utilize computer simulation to determine which nicotinamide derivatives of dipeptides are most promising for gelation. Such an approach saves much time spend in laboratory. After that they will synthesize the most promising candidates and measure the gelation properties of the oxidized and reduced state of the nicotinamide functionalized dipeptides. 
-The specific goals of this project are to: 
-
-1)	Indicate the most promising candidates for nicotinamide dipeptide gelators 
-2)	Synthesize these nicotinamide molecules functionalized with different amino acids
-3)	Investigate the gelation properties of the final materials
