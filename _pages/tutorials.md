@@ -24,8 +24,10 @@ Here are some demonstrations of applications of chemoinformatics tools for vario
 
 **Creation of coordinate file (GRO/PDB) from topology (RTP)**. See [notebook](https://github.com/tkpiskorz/md_notebooks/blob/master/rtp_to_top/PDB%20from%20RTP.ipynb).
 
+**Simulations of self-assembly on graphite flake**. This was part of my research and has been published (see [article](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b01234)). See [notebook](https://github.com/tkpiskorz/md_notebooks/blob/master/graphite/Graphite_tutorial.ipynb).
 
 # Other 
+
 
 
 
