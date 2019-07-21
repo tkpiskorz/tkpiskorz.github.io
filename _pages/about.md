@@ -25,4 +25,4 @@ In my spare time, I do outdoor activities (hiking, running and beach volleyball)
 
 Other
 ------
-If you have any question about my research, collaboration or anything just drop me <a href="mailto:{{ author.email }}">an e-mail</a>.
+If you have any question about my research, collaboration just drop me <a href="mailto:{{ author.email }}">an e-mail</a>.
