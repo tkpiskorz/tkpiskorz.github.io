@@ -1,4 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://tkpiskorz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tkpiskorz.github.io/" rel="alternate" type="text/html" /><updated>2019-07-21T05:03:17-07:00</updated><id>https://tkpiskorz.github.io/feed.xml</id><title type="html">Tomasz K. Piskorz</title><subtitle>Tomasz K. Piskorz</subtitle><author><name>Tomasz K. Piskorz</name><email>t.k.piskorz-1@tudelft.nl</email></author><entry><title type="html">Self-assembly of long functionalized alkanes on graphite</title><link href="https://tkpiskorz.github.io/posts/2012/08/blog-post-1/" rel="alternate" type="text/html" title="Self-assembly of long functionalized alkanes on graphite" /><published>2019-07-19T00:00:00-07:00</published><updated>2019-07-19T00:00:00-07:00</updated><id>https://tkpiskorz.github.io/posts/2012/08/blog-post</id><content type="html" xml:base="https://tkpiskorz.github.io/posts/2012/08/blog-post-1/">&lt;p&gt;I have spent a large part of my Ph.D. working on self-assembly of long functionalized alkanes on graphite. Formation of such monolayer has potential as an alternative method for top-down approaches to create 2D structures (such as photolithography). In both papers, we show the complete process of self-assembly by coarse-grained molecular dynamics simulations: from molecules dissolved in phenooctane until highly-ordered assemblies.  Our model not only explains in detail the process but also can be used to predict final supramolecular structures. If you are interested in more, you can read it in these papers:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://tkpiskorz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tkpiskorz.github.io/" rel="alternate" type="text/html" /><updated>2019-09-30T02:39:10-07:00</updated><id>https://tkpiskorz.github.io/feed.xml</id><title type="html">Tomasz K. Piskorz</title><subtitle>Tomasz K. Piskorz</subtitle><author><name>Tomasz K. Piskorz</name><email>tomasz.k.piskorz@gmail.com</email></author><entry><title type="html">Snapshots of trajectories in Goodsell style</title><link href="https://tkpiskorz.github.io/posts/2019/08/blog-post-2/" rel="alternate" type="text/html" title="Snapshots of trajectories in Goodsell style" /><published>2019-08-21T00:00:00-07:00</published><updated>2019-08-21T00:00:00-07:00</updated><id>https://tkpiskorz.github.io/posts/2019/08/blog-post</id><content type="html" xml:base="https://tkpiskorz.github.io/posts/2019/08/blog-post-2/">&lt;p&gt;In this short tutorial, I show how to make snapshots of trajectory in the style of  &lt;a href=&quot;https://ccsb.scripps.edu/goodsell/&quot;&gt;David Goodsell&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I know two ways of making such pictures:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Using VMD&lt;/li&gt;
+  &lt;li&gt;Using Blender and GIMP&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;1-vmd&quot;&gt;1. VMD&lt;/h3&gt;
+
+&lt;p&gt;Load a file with coordinates (*.pdb, *gro, *.xyz, etc.) to VMD. Choose &lt;em&gt;Graphics &amp;gt; Representation&lt;/em&gt;. In Draw Style, choose &lt;em&gt;Material&lt;/em&gt; “Goodsell” and &lt;em&gt;Drawing method&lt;/em&gt; “VDW”.  Render the image &lt;em&gt;File &amp;gt; Render&lt;/em&gt; using Tachyon rendering. That is it! Here is my result:
+&lt;img src=&quot;/images/2019-08-21-vmd-picture.png&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-blender-and-gimp&quot;&gt;2. Blender and GIMP&lt;/h3&gt;
+
+&lt;p&gt;A slightly better result can be achieved by using Blender and GIMP.  It demands more work than rendering in VMD, but it is worth it. Especially in the case if you want to publish it. I have seen this method described on &lt;a href=&quot;https://chemistry.stackexchange.com/questions/484/what-software-is-used-to-generate-the-pdb-molecule-of-the-month-images&quot;&gt;stackexchange.com&lt;/a&gt; and here is my adaptation of it.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Firstly, load *.pdb file into Blender using *.pdb importer plugin. (If you have some different format of the coordinate file you can covert it using VMD or gromacs (i.e., &lt;em&gt;gmx editconf&lt;/em&gt;) to pdb). To activate the plugin follow:&lt;br /&gt;
+&lt;em&gt;File &amp;gt; User preferences &amp;gt; Addons &amp;gt; Find “PDB” &amp;gt; Import-Export: Atomic Blender - PDB&lt;/em&gt; and tick the checkbox.
+Then, import the *.pdb file:
+&lt;em&gt;File &amp;gt; Import &amp;gt; Protein Data Bank (pdb)&lt;/em&gt; and open a file.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Adjust the position of a camera (see for example &lt;a href=&quot;https://www.youtube.com/watch?v=jJqcpaDTr7s&quot;&gt;link&lt;/a&gt;).  In my case, I had also increase clipping distance in the right panel. 
+&lt;br /&gt;&lt;img src=&quot;/images/2019-08-21-blender-explain-a.png&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use environmental lighting and change the color of the background on the right panel.
+&lt;img src=&quot;/images/2019-08-21-blender-explain-b.png&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Change the surface of atoms to shadeless: for every atom in right panel select name of the atom (i.g., Carbon) and the type of objects (i.g., Ball_Carbon), select Material,  and in section &lt;em&gt;Shading&lt;/em&gt; tick Shadeless. 
+&lt;br /&gt;&lt;img src=&quot;/images/2019-08-21-blender-explain-c.png&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Render the image and save. At this stage I have obtain such image:
+&lt;br /&gt;&lt;img src=&quot;/images/2019-08-21-blender-explain-render.png&quot; /&gt; 
+&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Save the &lt;a href=&quot;https://en.wikipedia.org/wiki/Z-buffering&quot;&gt;z-buffer&lt;/a&gt;. We need it to create lines on the edges of atoms.&lt;/i&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Change to Composite mode and tick “Use Nodes”.
+&lt;br /&gt;&lt;img src=&quot;/images/2019-08-21-blender-explain-d.png&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add normalization node:
+&lt;em&gt;Shift+a &amp;gt; Vector &amp;gt; Normalize&lt;/em&gt;  connetct Z-buffer of Rendered Layers to normalization module. Value of normalized module connect to composite module.
+&lt;br /&gt;&lt;img src=&quot;/images/2019-08-21-blender-explain-e.png&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Render and save the resulted image of Z-buffer.&lt;/li&gt;
+  &lt;li&gt;Open both images in GIMP. Put the z-buffer as a top layer.
+Select z-buffer layer and select &lt;em&gt;Filters &amp;gt; Edge detect &amp;gt; Edge …&amp;gt; OK&lt;/em&gt; (I used default option and amount 10)&lt;/li&gt;
+  &lt;li&gt;Invert colors _Colors &amp;gt; Invert)&lt;/li&gt;
+  &lt;li&gt;Remove white parts by selecting &lt;em&gt;select by color&lt;/em&gt; tool. Increase the threshold to 100 and select the white background. Remove it.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2019-08-21-blender-explain-f.png&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you should get a pretty image. This is the result which I got:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2019-08-21-blender-picture.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This method is a little bit more hassle, but it is worth it. Especially if you would like to make a picture for a cover of a thesis/journal.&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>Tomasz K. Piskorz</name><email>tomasz.k.piskorz@gmail.com</email></author><category term="phd" /><category term="tutorial" /><category term="publication" /><summary type="html">In this short tutorial, I show how to make snapshots of trajectory in the style of David Goodsell.</summary></entry><entry><title type="html">Succesfully defended my Ph.D.!</title><link href="https://tkpiskorz.github.io/posts/2019/08/blog-post-2/" rel="alternate" type="text/html" title="Succesfully defended my Ph.D.!" /><published>2019-08-21T00:00:00-07:00</published><updated>2019-08-21T00:00:00-07:00</updated><id>https://tkpiskorz.github.io/posts/2019/08/blog-post</id><content type="html" xml:base="https://tkpiskorz.github.io/posts/2019/08/blog-post-2/">&lt;p&gt;&lt;img src=&quot;/images/2019-09-26-grad1.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every journey has an end. This one took over 5 years, countless hours in front of the screens and (if I estimated correctly) one thousand litters of coffee. This would not be possible if not for the help and support of supervisors, colleagues, friends, and family. I thank you all for your support for all these years! Thank you!&lt;/p&gt;
+
+&lt;p&gt;The thesis is open access and can be downloaded from the repository of Delft University of Technology: &lt;br /&gt;
+&lt;a href=&quot;https://doi.org/10.4233/uuid:2c876b61-a850-4ae1-b47d-38a60a576006&quot;&gt;Molecular Modeling of Supramolecular Structures&lt;/a&gt;
+&lt;br /&gt;
+and consist of four chapters:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Lessons learned from molecular dynamics of trifold hydrogen bonded fibers with different force-fields (I hope we will publish it)&lt;/li&gt;
+  &lt;li&gt;Fiber formation seen through the high resolution computational microscope (submitted)&lt;/li&gt;
+  &lt;li&gt;Nucleation mechanisms of self-assembled physisorbed monolayers on graphite (published, J. Phys. Chem. C, 2019, 123, 28, 17510-17520)&lt;/li&gt;
+  &lt;li&gt;Mechanism of Ostwald Ripening in 2D physisorbed assemblies at molecular time- and length-scales by Molecular Dynamics simulations (published, J. Phys. Chem. C,2018, 122, 42, 24380-24385)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I had privilege that a couple of amazing people deeply read and review my thesis, which I am grateful and which resulted in exciting discussions during the defense.
+&lt;img src=&quot;/images/2019-09-26-grad2.jpg&quot; width=&quot;100%&quot; /&gt;
+From left top row: Prof. S.J. Picken, Prof. R. Oda, Prof. T. Tuttle , Prof. X.Y. Liu, Prof. ir. T.J.H. Vlugt &lt;br /&gt;
+From left bottom row: prof. C. Witteveen, Prof. J. H. van Esch, Dr. Q. Liu, me, Dr. S. Mytnyk, Dr. A. H. de Vries, the beetle&lt;/p&gt;
+
+&lt;p&gt;Thank you for all who support me during all these years and help me in finishing this amazing adventure!&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>Tomasz K. Piskorz</name><email>tomasz.k.piskorz@gmail.com</email></author><category term="phd" /><category term="thesis" /><summary type="html"></summary></entry><entry><title type="html">Self-assembly of long functionalized alkanes on graphite</title><link href="https://tkpiskorz.github.io/posts/2012/08/blog-post-1/" rel="alternate" type="text/html" title="Self-assembly of long functionalized alkanes on graphite" /><published>2019-07-19T00:00:00-07:00</published><updated>2019-07-19T00:00:00-07:00</updated><id>https://tkpiskorz.github.io/posts/2012/08/blog-post</id><content type="html" xml:base="https://tkpiskorz.github.io/posts/2012/08/blog-post-1/">&lt;p&gt;I have spent a large part of my Ph.D. working on self-assembly of long functionalized alkanes on graphite. Formation of such monolayer has potential as an alternative method for top-down approaches to create 2D structures (such as photolithography). In both papers, we show the complete process of self-assembly by coarse-grained molecular dynamics simulations: from molecules dissolved in phenooctane until highly-ordered assemblies.  Our model not only explains in detail the process but also can be used to predict final supramolecular structures. If you are interested in more, you can read it in these papers:&lt;/p&gt;
 
 &lt;p&gt;&lt;u&gt;T.K. Piskorz&lt;/u&gt;, C. Gobbo, S.J. Marrink, S. De Feyter, A.H. De Vries, J.H. van Esch. Nucleation Mechanisms of Self-Assembled Physisorbed Monolayers on Graphite. J. Phys. Chem. C, 2019, Just Accepted Manuscript. &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acs.jpcc.9b01234&quot;&gt; doi:10.1021/acs.jpcc.9b01234&lt;/a&gt;&lt;/p&gt;
 
@@ -12,4 +100,4 @@
 
 &lt;p&gt;The simulations can be easily done, and you can find jupyter notebook explaining the process &lt;a href=&quot;https://github.com/tkpiskorz/md_notebooks/blob/master/graphite/Graphite_tutorial.ipynb&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>Tomasz K. Piskorz</name><email>t.k.piskorz-1@tudelft.nl</email></author><category term="phd" /><category term="tutorial" /><category term="publication" /><summary type="html">I have spent a large part of my Ph.D. working on self-assembly of long functionalized alkanes on graphite. Formation of such monolayer has potential as an alternative method for top-down approaches to create 2D structures (such as photolithography). In both papers, we show the complete process of self-assembly by coarse-grained molecular dynamics simulations: from molecules dissolved in phenooctane until highly-ordered assemblies. Our model not only explains in detail the process but also can be used to predict final supramolecular structures. If you are interested in more, you can read it in these papers:</summary></entry></feed>
+&lt;hr /&gt;</content><author><name>Tomasz K. Piskorz</name><email>tomasz.k.piskorz@gmail.com</email></author><category term="phd" /><category term="tutorial" /><category term="publication" /><summary type="html">I have spent a large part of my Ph.D. working on self-assembly of long functionalized alkanes on graphite. Formation of such monolayer has potential as an alternative method for top-down approaches to create 2D structures (such as photolithography). In both papers, we show the complete process of self-assembly by coarse-grained molecular dynamics simulations: from molecules dissolved in phenooctane until highly-ordered assemblies. Our model not only explains in detail the process but also can be used to predict final supramolecular structures. If you are interested in more, you can read it in these papers:</summary></entry></feed>
