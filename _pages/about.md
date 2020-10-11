@@ -12,7 +12,7 @@ redirect_from:
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-I am a post-doc at prof. [Fernanda Duarte group](fduargegroup.org), where I work on understaning self-assembly of coordination complexes. 
+I am a post-doc at prof. [Fernanda Duarte group](https://fduartegroup.org/), where I work on understaning self-assembly of coordination complexes. 
 
 
 Before starting this position, I worked on my Ph.D. in the [Advance Soft Matter group](https://www.linkedin.com/company/advanced-soft-matter-tu-delft/) at TU Delft under the supervision of prof. Jan van Esch (Advance Soft Matter (ASM) group) and dr. Alex de Vries ([molecular dynamics (MD) group](https://www.rug.nl/research/molecular-dynamics/) at the University of Groningen). My Ph.D. thesis is entitled "[Molecular modeling of supramolecular structures](https://doi.org/10.4233/uuid:2c876b61-a850-4ae1-b47d-38a60a576006)."
