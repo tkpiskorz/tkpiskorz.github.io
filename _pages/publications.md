@@ -11,7 +11,7 @@ author_profile: true
 
 If you do not have access to these articles, just drop me an e-mail, I will be happy to provide you a copy of the manuscript.
 
-Q. Liu, Z. Yuan, M. Zhao, M. Huisman, G. Drewes, <u>T.K. Piskorz</u>, S. Mytnyk, G.J.M. Koper, E. Mendes, J.H. van Esch, (2020), <a>Interfacial micro‐compartmentalization by kinetic control of selective interfacial accumulation</a>, Angew. Chem. Int. Ed.. Accepted Author Manuscript. <a href="https://doi.org/10.1002/anie.202009701">doi:10.1002/anie.202009701</a>
+Q. Liu, Z. Yuan, M. Zhao, M. Huisman, G. Drewes, <u>T.K. Piskorz</u>, S. Mytnyk, G.J.M. Koper, E. Mendes, J.H. van Esch, (2020), <i>Interfacial micro‐compartmentalization by kinetic control of selective interfacial accumulation</i>, Angew. Chem. Int. Ed.. Accepted Author Manuscript. <a href="https://doi.org/10.1002/anie.202009701">doi:10.1002/anie.202009701</a>
 
 Y. Wang, <u>T.K. Piskorz</u>, M. Lovrak, E. Mendes, X. Guo, R. Eelkema, J.H. van Esch, <i>Transient Supramolecular Hydrogels Formed by Aging‐Induced Seeded Self‐Assembly of Molecular Hydrogelators</i>. Adv. Sci. 2020, 7, 1902487. <a href="https://doi.org/10.1002/advs.201902487"> doi:10.1002/advs.201902487</a>
 
