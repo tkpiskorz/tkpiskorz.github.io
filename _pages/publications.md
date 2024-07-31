@@ -15,7 +15,7 @@ If you do not have access to these articles, just drop me an e-mail, I will be h
 
 12. P. J. Boaler, <u>T. K. Piskorz</u>, L. E. Bickerton, J. Wang, F. Duarte, G. C. Lloyd-Jones, P. J. Lusby. <i>Origins of High-Activity Cage-Catalyzed Michael Addition</i>.J. Am. Chem. Soc. 2024, 146, 19317−19326. <a href="https://doi.org/10.1021/jacs.4c05160">doi.org:10.1021/jacs.4c05160</a>
 
-11. <u> T. K. Piskorz</u>, L. Perez-Chirinos, B. Qiao, I. R. Sasselli. (2024). <i>Tips and Tricks in the Modeling of Supramolecular Peptide Assemblies</i>. ACS Omega.  2024, 9, 29, 31254–31273. <a href="https://doi.org/10.1021/acsomega.4c02628">doi.org:10.1021/acsomega.4c02628</a>
+11. <u> T. K. Piskorz</u>, L. Perez-Chirinos, B. Qiao, I. R. Sasselli. <i>Tips and Tricks in the Modeling of Supramolecular Peptide Assemblies</i>. ACS Omega.  2024, 9, 29, 31254–31273. <a href="https://doi.org/10.1021/acsomega.4c02628">doi.org:10.1021/acsomega.4c02628</a>
 
 10. K. G. Andrews, <u> T.K. Piskorz</u>, P. N. Horton, S. J. Coles. <i>Enzyme-like acyl transfer catalysis in a bifunctional organic cage</i>. J. Am. Chem. Soc. 2024, 146, 17887−17897. <a href="https://doi.org/10.1021/jacs.4c03560">doi.org:10.1021/jacs.4c03560</a>
 

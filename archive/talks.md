@@ -15,7 +15,7 @@ redirect_from:
 | --------    | ------ |------ | ------------------------------------------------------------ |
 | 2019 Jan    | Delft, NL | Faculty Colloquium   | Modeling of supramolecular fiber formation: nucleation, elongation, secondary nucleation and bundling|
 | 2017 May    | Delft, NL |Soft Matter Meeting |  Domain formation and dynamics of functionalized long alkanes on graphite |
-| 2016 Jun    | Edinburgh, UK | ScotCHEM: computational chemistry conference   | Self-assembly of long functionalized alkanes on graphite surface (awarded the best presentation price)|
+| 2016 Jun    | Edinburgh, UK | ScotCHEM: computational chemistry conference   | Self-assembly of long functionalized alkanes on graphite surface (awarded the best presentation prize)|
 | 2016 Mar    | Groningen, NL | Dutch Molecular Dynamics Day | Self-assembly of long functionalized alkanes on graphite surface |
 | 2016 Jan    | Badgastein, AU |First Circular for the Winter Discussion Workshop 2016 “Beyond Self – Assembly”   | Self-assembly on energy landscape  |
 | 2013 Nov    | PL |XXXIX School of Chemistry | Study of diffusion in a crowded environment using a FCS simulator|
