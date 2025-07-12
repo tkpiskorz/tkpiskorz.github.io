@@ -5,11 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+The most updated list of my publications is available at <u><a href="https://scholar.google.pl/citations?user=DMmIVeoAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 If you do not have access to these articles, just drop me an e-mail, I will be happy to provide you a copy of the manuscript.
 
-14. <u> T.K. Piskorz</u>, B. Lee, S. Zhan, F. Duarte, <i>submitted</i> <a href="https://doi.org/10.26434/chemrxiv-2024-383j5"> doi:10.26434/chemrxiv-2024-383j5 </a>
+16. H. Zhou,‡ <u> T.K. Piskorz </u>, K. Liu, Y. Lu, F. Duarte, P. Lusby, “Dissecting the Effects of Cage Structure in the Catalytic Activation of Imide Chloronium Ion Donors”, J. Am. Chem. Soc. 2025, 147, 13, 11456. <a href='https://doi.org/10.1021/jacs.5c01249'>doi.org:10.1021/jacs.5c01249</a>
+
+15. <u> T.K. Piskorz </u>,\* V. Lakshminarayanan, A. H. de Vries, J. van Esch,\* ”Fiber formation seen through the high-resolution computational microscope,” Faraday Discussion, 2025.<a href='http://dx.doi.org/10.1039/D4FD00188E'>doi.org:10.1039/D4FD00188E</a>
+
+14. <u> T.K. Piskorz</u>, B. Lee, S. Zhan, F. Duarte, “metallicious: Automated force-field parametrization of covalently bound metals for supramolecular structures,” J. Chem. Theory Comput., 20, 20, 9060–9071, 2024. <a href="https://doi.org/10.1021/acs.jctc.4c00850">doi.org:10.1021/acs.jctc.4c00850</a>
 
 13. V. Martí-Centelles, <u>T. K. Piskorz</u>, F. Duarte. <i>CageCavityCalc (C3): A computational tool for calculating and visualizing cavities in Molecular Cages</i>. J. Chem. Inf. Model. 2024, 64, 14, 5604–5616. <a href="https://doi.org/10.1021/acs.jcim.4c00355">doi.org:10.1021/acs.jcim.4c0035</a>
 

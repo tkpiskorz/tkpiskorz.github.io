@@ -13,27 +13,21 @@ Education
 ======
 * B.Sc. in Chemistry, University of Warsaw, 2011
 * M.Sc. in Chemistry, University of Warsaw, 2013
-* Ph.D in Applied Sciences, Delft University of Technology, 2019 (expected)
+* Ph.D. in Chemical Engineering, Delft University of Technology, 2019
 
 Work experience
 ======
-* PhD Researcher in [Advance Soft Matter group](https://www.linkedin.com/company/advanced-soft-matter-tu-delft/) at Delft University of Technology (2014 Jul - 2019 Apr)
-  * Simulations of self-assembly process using different types of molecular simulations (QM, MD, CG MD)
-  * Development and implementation of enhancing sampling methods (python, shell scripting)
-  * Analysis using statistical (R and python with numpy and pandas) and machine learning methods (pyemma, sklearn)
-  * Teaching assistant for 4 bachelor courses and supervisor of student research project
-  * Close collaboration with experimental group
+* Post-doctoral Research Associate at [Duarte Research Group](https://www.duartegroupchem.org/) at Oxford University (2019 Oct - present)
+
+* Research associate at [St. Peter's College](https://www.spc.ox.ac.uk/) at Oxford University (2023 Feb - present)
+
+* PhD Researcher in [Advance Soft Matter group](https://www.linkedin.com/company/advanced-soft-matter-tu-delft/) at Delft University of Technology (2014 Jul - 2019 Sep)
 
 * Visiting researcher in [Laboratoire Polymères et Matériaux Avancés](https://www.lpma-research.com/en/index.html) at Solvey (2016 Oct-Dec)
-  * Research project in multiscale modelling (from quantum mechanics to Brownian dynamics) of polymers using Material Studio, Turbomole and  GROMACS 
 
 * Visiting researcher in [Tuttle Lab](http://tuttlelab.com/) at University of Strathclyde (2016 Apr-Aug)
-  * Screening of potential gelators using molecular dynamics (NAMD, shell scripting) with close collaboration with experimental group
-  * Supramolecular structure prediction (NAMD, shell scripting)
-  * Analysis (VMD)
 
-* Intern in [biophysical chemistry group](http://groups.ichf.edu.pl/ochab) at Polish Academy of Science (2012 Sep – 2013 Jun)
-  * Development of a high-performance simulator of fluorescence correlation spectrometer (C/C++ with GPU parallelization)
+* Research Assistant in [biophysical chemistry group](http://groups.ichf.edu.pl/ochab) at Polish Academy of Science (2012 Sep – 2013 Jun)
   
 Expertise
 ======
@@ -45,6 +39,7 @@ Expertise
   * Multiscale modeling
   * Force-field development/validation
   * Rare-event sampling methods
+  * Quantum mechanics
 * Data analysis
   * Statistics
   * Machine learning
