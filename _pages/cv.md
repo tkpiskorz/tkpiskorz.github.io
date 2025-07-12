@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Chemistry, University of Warsaw, 2011
-* M.Sc. in Chemistry, University of Warsaw, 2013
-* Ph.D. in Chemical Engineering, Delft University of Technology, 2019
+* B.Sc. in Chemistry, University of Warsaw, 2011 Jul
+* M.Sc. in Chemistry, University of Warsaw, 2013 Oct
+* Ph.D. in Chemical Engineering, Delft University of Technology, 2019 Sep
 
 Work experience
 ======
