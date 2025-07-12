@@ -9,7 +9,7 @@ The most updated list of my publications is available at <u><a href="https://sch
 
 If you do not have access to these articles, just drop me an e-mail, I will be happy to provide you a copy of the manuscript.
 
-16. H. Zhou,‡ <u> T.K. Piskorz </u>, K. Liu, Y. Lu, F. Duarte, P. Lusby, “Dissecting the Effects of Cage Structure in the Catalytic Activation of Imide Chloronium Ion Donors”, J. Am. Chem. Soc. 2025, 147, 13, 11456. <a href='https://doi.org/10.1021/jacs.5c01249'>doi.org:10.1021/jacs.5c01249</a>
+16. H. Zhou,‡ <u> T.K. Piskorz,‡</u> K. Liu, Y. Lu, F. Duarte, P. Lusby, “Dissecting the Effects of Cage Structure in the Catalytic Activation of Imide Chloronium Ion Donors”, J. Am. Chem. Soc. 2025, 147, 13, 11456. <a href='https://doi.org/10.1021/jacs.5c01249'>doi.org:10.1021/jacs.5c01249</a>
 
 15. <u> T.K. Piskorz </u>,\* V. Lakshminarayanan, A. H. de Vries, J. van Esch,\* ”Fiber formation seen through the high-resolution computational microscope,” Faraday Discussion, 2025.<a href='http://dx.doi.org/10.1039/D4FD00188E'>doi.org:10.1039/D4FD00188E</a>
 
