@@ -22,6 +22,4 @@ The primary focus of my research is understanding the self-assembly process, i.e
 
 In my work, I utilize computational methods to gain insights into these processes, as experimental methods have limitations. I am most interested in combining different approaches, such as quantum mechanics, molecular simulations (particularly molecular dynamics), and machine learning, to create reliable models for chemical systems that can guide laboratory work towards better products.
 
-Other
-------
 If you have any question about my research/collaboration just drop me <a href="mailto:{{ author.email }}">an e-mail</a>.
