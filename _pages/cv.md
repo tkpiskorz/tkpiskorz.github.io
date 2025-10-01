@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* Post-doctoral Research Associate at [Duarte Research Group](https://www.duartegroupchem.org/) at Oxford University (2019 Oct - present)
+* JSPS post-doctoral Research Fellow at [Packwood Group](https://www.packwood.icems.kyoto-u.ac.jp/) at Kyoto University (2025 Sep - present)
+
+* Post-doctoral Research Associate at [Duarte Research Group](https://www.duartegroupchem.org/) at Oxford University (2019 Oct - 2025 Aug)
 
 * Research associate at [St. Peter's College](https://www.spc.ox.ac.uk/) at Oxford University (2023 Feb - present)
 
