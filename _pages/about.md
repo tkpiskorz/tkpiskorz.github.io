@@ -22,9 +22,6 @@ The primary focus of my research is understanding the self-assembly process, i.e
 
 In my work, I utilize computational methods to gain insights into these processes, as experimental methods have limitations. I am most interested in combining different approaches, such as quantum mechanics, molecular simulations (particularly molecular dynamics), and machine learning, to create reliable models for chemical systems that can guide laboratory work towards better products.
 
-#I had the opportunity to go to Glasgow and work in [Tuttle Lab](http://tuttlelab.com/) on peptide-based supramolecular systems and go to Lyon to the [Laboratoire Polymères et Matériaux Avancés of Solvey](https://www.lpma-research.com/en/index.html) to work on multiscale simulations of polymers.  Before starting my Ph.D., I studied at [College of MISMaP](http://mismap.uw.edu.pl/) at Warsaw University, from which I have gained M.Sc. degree in chemistry. As for the thesis itself, I wrote it in [biophysical chemistry group](http://groups.ichf.edu.pl/ochab) at the Polish Academy of Science, where I developed Monte Carlo simulations and a model of fluorescent correlation spectroscope (FCS).
-
-
 Other
 ------
 If you have any question about my research/collaboration just drop me <a href="mailto:{{ author.email }}">an e-mail</a>.
