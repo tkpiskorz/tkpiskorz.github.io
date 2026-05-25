@@ -1,0 +1,19 @@
+current directory: /home/tkpiskorz/Dropbox/Life/website/tkpiskorz.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/tkpiskorz/Dropbox/Life/website/tkpiskorz.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260525-2258068-wxvb4p sitelibdir\=./.gem.20260525-2258068-wxvb4p clean
+
+current directory: /home/tkpiskorz/Dropbox/Life/website/tkpiskorz.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260525-2258068-wxvb4p sitelibdir\=./.gem.20260525-2258068-wxvb4p
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/tkpiskorz/Dropbox/Life/website/tkpiskorz.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260525-2258068-wxvb4p sitelibdir\=./.gem.20260525-2258068-wxvb4p install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20260525-2258068-wxvb4p
+
+current directory: /home/tkpiskorz/Dropbox/Life/website/tkpiskorz.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260525-2258068-wxvb4p sitelibdir\=./.gem.20260525-2258068-wxvb4p clean

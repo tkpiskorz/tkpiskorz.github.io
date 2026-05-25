@@ -50,10 +50,6 @@ Publications
 ======
 See <a href="/publications">publications</a>.
   
-Talks
-======
-See <a href="/talks">talks</a>.
-  
 Teaching
 ======
 See <a href="/teaching">teaching</a>.
