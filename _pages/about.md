@@ -14,7 +14,7 @@ redirect_from:
 
 I am a JSPS postdoctoral fellow in Prof. [Daniel Packwood's group](https://www.packwood.icems.kyoto-u.ac.jp/), where I work on understanding self-assembled structures and their applications in chemical biology.
 
-Before, I worked as a postdoctoral researcher in [Fernanda Duarte's group](https://www.duartegroupchem.org/) at the University of Oxford. I earned my Ph.D. from TU Delft under the supervision of [Prof. Jan van Esch](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-investigators/jan-van-esch/jan-van-esch-lab) and [dr. Alex de Vries](https://research.rug.nl/en/persons/alex-de-vries) (University of Groningen). My Ph.D. thesis is entitled “[Molecular modeling of supramolecular structures](https://doi.org/10.4233/uuid:2c876b61-a850-4ae1-b47d-38a60a576006)."
+Before, I worked as a postdoctoral researcher in [Fernanda Duarte's group](https://www.duartegroupchem.org/) at the University of Oxford. I earned my Ph.D. from TU Delft under the supervision of [Prof. Jan van Esch](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-investigators/jan-van-esch/jan-van-esch-lab) and [dr. Alex de Vries](https://research.rug.nl/en/persons/alex-de-vries).
 
 Research Intrest
 ------
